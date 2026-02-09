@@ -1,0 +1,23 @@
+{
+  "name": "dogfactsexpress",
+  "version": "1.0.0",
+  "description": "A basic Express server with dog facts",
+  "homepage": "https://github.com/Eveybushell/dogFactsExpress#readme",
+  "bugs": {
+    "url": "https://github.com/Eveybushell/dogFactsExpress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eveybushell/dogFactsExpress.git"
+  },
+  "license": "ISC",
+  "author": "Evey Bushell",
+  "type": "module",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
