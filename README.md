@@ -6,7 +6,7 @@ endpoint = /facts
 
 ## Retrieve specified number of facts:
 
-endpoint = /facts/facts?number=YOURNUMBERHERE <br>
+endpoint = /facts/?number=YOURNUMBERHERE <br>
 
 Enter a number into YOURNUMBERHERE <br>
 
